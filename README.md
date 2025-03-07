@@ -2,6 +2,9 @@
 
 This Python script (`ai-artgenerator.py`) uses artificial intelligence to generate unique and creative images.
 
+https://github.com/user-attachments/assets/bf5f9106-5783-4114-b435-875a5a82ee77
+
+
 ## Features
 
 * **Text-to-Image Generation:** Create images from textual descriptions or prompts.
